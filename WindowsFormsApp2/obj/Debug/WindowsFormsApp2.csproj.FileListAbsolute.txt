@@ -1,0 +1,71 @@
+C:\Users\erika\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\erika\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\erika\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\erika\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\erika\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\erika\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\Users\erika\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form5.resources
+C:\Users\erika\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\erika\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\erika\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\erika\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\erika\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\erika\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Informacionpacientemedico.resources
+C:\Users\erika\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.tratamientomedico.resources
+C:\Users\erika\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.agendacitaspaciente.resources
+C:\Users\erika\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.menupaciente.resources
+C:\Users\erika\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.datosbasicospaciente.resources
+F:\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+F:\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+F:\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Informacionpacientemedico.resources
+F:\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.tratamientomedico.resources
+F:\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.form5.resources
+F:\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+F:\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.Cache
+F:\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+F:\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+F:\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+F:\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+F:\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+F:\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+F:\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+F:\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Reportes.resources
+F:\trabajo software\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+F:\trabajo software\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+F:\trabajo software\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\entrega 1trabajo final\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\entrega 1trabajo final\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\entrega 1trabajo final\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Estudiante\Downloads\consultoriosonrisaperfecta-master\consultoriosonrisaperfecta-master\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Estudiante\Downloads\consultoriosonrisaperfecta-master\consultoriosonrisaperfecta-master\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Estudiante\Downloads\consultoriosonrisaperfecta-master\consultoriosonrisaperfecta-master\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Estudiante\Downloads\consultoriosonrisaperfecta-master\consultoriosonrisaperfecta-master\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+C:\Users\Estudiante\Downloads\consultoriosonrisaperfecta-master\consultoriosonrisaperfecta-master\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Reportes.resources
+C:\Users\Estudiante\Downloads\consultoriosonrisaperfecta-master\consultoriosonrisaperfecta-master\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Estudiante\Downloads\consultoriosonrisaperfecta-master\consultoriosonrisaperfecta-master\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\Users\Estudiante\Downloads\consultoriosonrisaperfecta-master\consultoriosonrisaperfecta-master\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Informacionpacientemedico.resources
+C:\Users\Estudiante\Downloads\consultoriosonrisaperfecta-master\consultoriosonrisaperfecta-master\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.tratamientomedico.resources
+C:\Users\Estudiante\Downloads\consultoriosonrisaperfecta-master\consultoriosonrisaperfecta-master\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.form5.resources
+C:\Users\Estudiante\Downloads\consultoriosonrisaperfecta-master\consultoriosonrisaperfecta-master\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Estudiante\Downloads\consultoriosonrisaperfecta-master\consultoriosonrisaperfecta-master\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.Cache
+C:\Users\Estudiante\Downloads\consultoriosonrisaperfecta-master\consultoriosonrisaperfecta-master\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Downloads\consultoriosonrisaperfecta-master\consultoriosonrisaperfecta-master\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Estudiante\Downloads\consultoriosonrisaperfecta-master\consultoriosonrisaperfecta-master\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+F:\sot1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+F:\sot1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+F:\sot1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Estudiante\Desktop\sot1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Estudiante\Desktop\sot1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Estudiante\Desktop\sot1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+F:\sot1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojResolveAssemblyReference.cache
+F:\sot1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Reportes.resources
+F:\sot1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+F:\sot1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+F:\sot1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Informacionpacientemedico.resources
+F:\sot1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.tratamientomedico.resources
+F:\sot1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.form5.resources
+F:\sot1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+F:\sot1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.Cache
+F:\sot1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+F:\sot1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+F:\sot1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
